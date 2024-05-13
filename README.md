@@ -7,3 +7,6 @@
 <p>
     <img align='center' width='99%' src=https://github.com/me-js-bro/Neofetch-Themes/blob/main/ScreenShots/1.png" \>
 </p>
+
+### What should you install before?
+<h3> Make sure to install the JetBrains Mono Nerd font, or any other nord fonts. </h3>
